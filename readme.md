@@ -14,7 +14,7 @@ Search & Filter - Find books by title, author, or genre
 
 Responsive Design - Works seamlessly on desktop and mobile devices
 
-🛠️ Tech Stack
+Tech Stack
 Frontend
 React - Modern UI framework
 
